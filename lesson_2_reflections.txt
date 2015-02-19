@@ -19,3 +19,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 Experimenting with new changes, different versions of a program, different languages.
 Branches would keep any changes off the main branch, enabling changes and experiments to be made separately, which could later be merged back into the main branch.
+
+
+How do the diagrams help you visualize the branch structure?
+
+A picture paints a thousand words.
