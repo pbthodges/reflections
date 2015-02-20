@@ -20,12 +20,13 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Git was invented for programmers, so it makes sense to have multiple sources in a commit as programs are made up of multiple sources.
-    Google Docs is document based.
+    Git was invented for programmers, so it makes sense to have multiple sources in a commit as programs
+    are made up of multiple sources and a logical change may affect more than one source.
+    Google Docs is single document based.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Git log shows you the data and times of commits and a description.
+    Git log shows you the date and times of commits and a description.
     Git diff shows you what is different between 2 commits so can see what changed
 
 How might using version control make you more confident to make changes that
