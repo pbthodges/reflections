@@ -24,3 +24,8 @@ Branches would keep any changes off the main branch, enabling changes and experi
 How do the diagrams help you visualize the branch structure?
 
 A picture paints a thousand words.
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+Pros - easier to let git take care of it for you
+Cons - Might get it wrong, better to resolve complex merges yourself
