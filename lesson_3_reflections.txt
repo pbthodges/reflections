@@ -7,3 +7,5 @@ When you want an offsite/off computer backup.
 Why might you want to always pull changes manually rather than having git automatically stay up-to-date with your remote repository?
 
 The remote repository may contain changes from a 3rd party which may conflict with what you are currently working on.
+
+
