@@ -47,3 +47,12 @@ control system, this would impose more overhead than was worth it.
 
 let one person do all the work and take regular backups.!!!!
 
+When woudl you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have.
+
+Working on master is requires less effort to keep the github repository updated.
+
+Working on a separate branch is better if you want to try new things and maintain separate
+versions locally, and if you are collaborating with others.
+
+
