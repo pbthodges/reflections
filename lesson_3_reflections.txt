@@ -10,4 +10,7 @@ The remote repository may contain changes from a 3rd party which may conflict wi
 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do.
 
+The history of commits is merged based on date/time, and a new commit is created which has parents of the 2 merged branches.
+The diagram makes it easier to visualize the branches.
