@@ -14,3 +14,13 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The history of commits is merged based on date/time, and a new commit is created which has parents of the 2 merged branches.
 The diagram makes it easier to visualize the branches.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of a repository made on github. Any changes made to the fork
+version are not reflected in the history of the original. Github tracks the 
+number of additional commits to the fork compared to the original.
+
+A clone is a local copy of a repository made from github.
+
+ A branch is a logical copy of the files taken at the current commit, the latestor whatever was most recently checked out. Changes to the fileset within a branch are kept separate from other branches, but branches may be merged in order for changes to be combined.
