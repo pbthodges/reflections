@@ -29,3 +29,21 @@ What is the benefit of having a copy of the last known state of the remote store
 
 You could do a merge offline.
 
+
+How would you collaborate without using Git or Github? What would be easier, and what
+would be harder?
+
+Have all files on a central file share. Rename a file with someones username as an extenision while they have
+it in use. 
+File can only be worked on by one person at a time.
+No problems with merging as only one person working on files.
+Modern Software systems tend to be spread over a lot more files than in the old days,
+e.g. java has 1 file per class, therefore more chance of locking multiple files that other
+people need, and if more than a few people are involved on the project, the whole thing will
+grind to a halt waiting for others to finish their changes.
+
+On the other hand, everyone could have their own copy, but then, without an efficient merging
+control system, this would impose more overhead than was worth it.
+
+let one person do all the work and take regular backups.!!!!
+
